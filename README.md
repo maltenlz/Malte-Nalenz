@@ -1,4 +1,4 @@
-# Malte-Nalenz
+# Malte Nalenz
 
 
 # Publications
