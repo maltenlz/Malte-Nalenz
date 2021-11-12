@@ -6,5 +6,5 @@ Ebner, L., Nalenz, M., ten Teije, A., van Harmelen, F., Augustin, T. (2021). Exp
 Nalenz,M., Villani,M. (2008). Tree ensembles with rule structured horseshoe regularization. *Annals of Applied Statistics*.
 # Preprints and Techincal Reports
 Nalenz, M., Augustin, T. (2021). Compressed Rule Ensemble Learning.  -- currently under review. Available  [here](./CRE.pdf)\
-Nalenz, M., Augustin, T. (2021). Cultivated Random Forests. -- [Technical Report]((https://epub.ub.uni-muenchen.de/77861/)\
-Fütterer, C., Nalenz, M. (2021). Discriminative Power Lasso. -- [Technical Report}(https://epub.ub.uni-muenchen.de/77862/)
+Nalenz, M., Augustin, T. (2021). Cultivated Random Forests. -- [Technical Report](https://epub.ub.uni-muenchen.de/77861/)\
+Fütterer, C., Nalenz, M., Augustin, T. (2021). Discriminative Power Lasso. -- [Technical Report](https://epub.ub.uni-muenchen.de/77862/)
