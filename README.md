@@ -12,7 +12,7 @@ Kreiss, D., Nalenz, M., Augustin, T. (2020). Undecided Voters as Set-Valued Info
 Nalenz,M., Villani,M. (2018). Tree ensembles with rule structured horseshoe regularization. *Annals of Applied Statistics*12(4). << [R-package (soon to be updated)](https://cran.r-project.org/web/packages/horserule/index.html)
 
 # Preprints and Techincal Reports
-Nalenz, M., Augustin, T. (2021). Compressed Rule Ensemble Learning.  << currently under review. Available  [here](./CRE.pdf)\
+Nalenz, M., Augustin, T. (2021). Compressed Rule Ensemble Learning.  << currently under review. Preprint available  [here](./CRE.pdf)\
 \
 Nalenz, M., Augustin, T. (2021). Cultivated Random Forests: Robust Decision Tree Learning through Tree Structured Ensembles. << [Technical Report](https://epub.ub.uni-muenchen.de/77861/)\
 \
