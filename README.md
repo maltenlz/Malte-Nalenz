@@ -14,7 +14,7 @@ At the same time im working as a Data Science freelancer.
 # Publications
 The following shows a list of my research projects, published articles and preprints.
 
-Seibold, H., et. al, Nalenz, M. (2021). A computational reproducibility study of PLOS ONE articles featuring longitudinal data analyses. *PLOS ONE* 16(6).
+Seibold, H., et. al, Nalenz, M. (2021). A computational reproducibility study of PLOS ONE articles featuring longitudinal data analyses. *PLOS ONE* 16(6).\
 Available [here](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0251194)\
 \
 Ebner, L., Nalenz, M., ten Teije, A., van Harmelen, F., Augustin, T. (2021). Expert RuleFit: Complementing Rule Ensembles with Expert Knowledge.*19th International Conference on Artificial Intelligence in Medicine, KR4HC Workshop*. << Available [here](./ERF.pdf), [R-code](https://github.com/LuisaEbner/ERF)\
