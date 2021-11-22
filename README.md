@@ -1,5 +1,5 @@
 # About me
-Hi, I'm Malte, 33 years old, from Munich. Currently, i*m pursuiing a PhD in Statistics at the LMU Munich. 
+Hi, I'm Malte, 33 years old, from Munich. Currently, i'm pursuiing a PhD in Statistics at the LMU Munich. 
 
 My main research interests are:  
 - Tree Ensemble Methods
