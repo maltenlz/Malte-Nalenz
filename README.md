@@ -18,7 +18,9 @@ Seibold, H., et. al, Nalenz, M. (2021). A computational reproducibility study of
 \
 Ebner, L., Nalenz, M., ten Teije, A., van Harmelen, F., Augustin, T. (2021). Expert RuleFit: Complementing Rule Ensembles with Expert Knowledge.*19th International Conference on Artificial Intelligence in Medicine, KR4HC Workshop*. Available [here](./ERF.pdf), [R-code](https://github.com/LuisaEbner/ERF)\
 \
-Kreiss, D., Nalenz, M., Augustin, T. (2020). Undecided Voters as Set-Valued Information--Machine Learning Approaches under Complex Uncertainty. Available [here](./UV.pdf)\
+Kreiss, D., Nalenz, M., Augustin, T. (2020). Undecided Voters as Set-Valued Information--Machine Learning Approaches under Complex Uncertainty. *Joint European
+Conference on Machine Learning and Knowledge Discovery in Databases, Tutorial
+and Workshop on Uncertainty in Machine Learning.* Available [here](./UV.pdf)\
 \
 Nalenz,M., Villani,M. (2018). Tree ensembles with rule structured horseshoe regularization. *Annals of Applied Statistics*12(4). [R-package (soon to be updated)](https://cran.r-project.org/web/packages/horserule/index.html)
 
