@@ -1,4 +1,15 @@
 # Malte Nalenz
+Hi, I'm Malte, 33 years old, from Munich. Currently, i*m pursuiing a PhD in Statistics at the LMU Munich. 
+
+My main research interests are:  
+- Tree Ensemble Methods
+- Decision Rules Ensembles
+- Interpretable Machine Learning
+- General Ensemble Learning
+- Uncertainty Quantification
+- Regularization
+
+At the same time im working as a Data Science freelancer.
 
 The following shows a list of my research projects, published articles and preprints.
 # Publications
